@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C_study\\Project1_20240530\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72676499-372C-4B4D-99C1-8A2180CA6A42}|Project1_20240530\\Project1_20240530.vcxproj|C:\\C_study\\Project1_20240530\\Project1_20240530\\do.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72676499-372C-4B4D-99C1-8A2180CA6A42}|Project1_20240530\\Project1_20240530.vcxproj|solutionrelative:Project1_20240530\\do.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "do.c",
+              "DocumentMoniker": "C:\\C_study\\Project1_20240530\\Project1_20240530\\do.c",
+              "RelativeDocumentMoniker": "Project1_20240530\\do.c",
+              "ToolTip": "C:\\C_study\\Project1_20240530\\Project1_20240530\\do.c",
+              "RelativeToolTip": "Project1_20240530\\do.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-30T09:51:50.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

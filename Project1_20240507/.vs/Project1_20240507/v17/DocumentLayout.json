@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C_study\\Project1_20240507\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55E96ACE-8FD4-4F48-9030-46122E260A60}|Project1_20240507\\Project1_20240507.vcxproj|C:\\C_study\\Project1_20240507\\Project1_20240507\\bit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55E96ACE-8FD4-4F48-9030-46122E260A60}|Project1_20240507\\Project1_20240507.vcxproj|solutionrelative:Project1_20240507\\bit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bit.c",
+              "DocumentMoniker": "C:\\C_study\\Project1_20240507\\Project1_20240507\\bit.c",
+              "RelativeDocumentMoniker": "Project1_20240507\\bit.c",
+              "ToolTip": "C:\\C_study\\Project1_20240507\\Project1_20240507\\bit.c",
+              "RelativeToolTip": "Project1_20240507\\bit.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-07T09:36:44.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
